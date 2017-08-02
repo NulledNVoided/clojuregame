@@ -1,4 +1,5 @@
-# clojuregame
+Clojuregame
+# clojgame
 
 FIXME: description
 
@@ -11,6 +12,7 @@ Download from http://example.com/FIXME.
 FIXME: explanation
 
     $ java -jar clojuregame-0.1.0-standalone.jar [args]
+    $ java -jar clojgame-0.1.0-standalone.jar [args]
 
 ## Options
 
@@ -34,3 +36,4 @@ Copyright © 2017 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+
